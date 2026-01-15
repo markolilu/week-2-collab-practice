@@ -1,0 +1,7 @@
+body {
+    box-sizing: border-box;
+    border: solid 4px #cccccc;
+    font-family: 'Times New Roman', Times, serif;
+
+    box-shadow: #cccccc ;
+}
